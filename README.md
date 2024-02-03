@@ -1,5 +1,5 @@
 # FGL_DevEmotionAnalysis
-What Do Developers Feel About Fast-Growing Programming Languages? An Exploratory Study
+What Do Developers Feel About Fast-Growing Programming Languages? An Exploratory Study. The corresponding paper has been accepted in ICPC'24, for further details on the dataset, methodology, and results, please refer https://doi.org/10.1145/3643916.3644422. 
 
 # **FGL_DevEmotionAnalysis**
 
